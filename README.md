@@ -4,6 +4,7 @@ Visual Studio Code extension for the PyGuardian-Lite package
 This is a custom made static analysis plugin, that runs on my custom made static analysis package.
 
 Features:
+
     Runs when saving file
 
     Categorization (which is customizable within the package)
@@ -17,6 +18,7 @@ Features:
     Different underline colors for the severity
 
 Errors can be based on these categorizations:
+
     "critical": "Very severe issue requiring immediate action",
     "error": "Critical issue preventing execution or functionality",
     "warning": "Potential issue that should be addressed",
