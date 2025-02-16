@@ -5,17 +5,17 @@ This is a custom made static analysis plugin, that runs on my custom made static
 
 Features:
 
-    Runs when saving file
+    * Runs when saving file
 
-    Categorization (which is customizable within the package)
+    * Categorization (which is customizable within the package)
 
-    Shows approved message in status bar when policy template is fullfilled (policy = static analysis rules selected in package)
+    * Shows approved message in status bar when policy template is fullfilled (policy = static analysis rules selected in package)
 
-    Alerts on Errors and Critical errors.
+    * Alerts on Errors and Critical errors.
 
-    Underlines variables or class names, if needed and possible (depends on the error message)
+    * Underlines variables or class names, if needed and possible (depends on the error message)
 
-    Different underline colors for the severity
+    * Different underline colors for the severity
 
 Errors can be based on these categorizations:
 
