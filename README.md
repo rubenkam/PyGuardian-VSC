@@ -13,7 +13,7 @@ Features:
 
     * Alerts on Errors and Critical errors.
 
-    * Underlines variables or class names, if needed and possible (depends on the error message)
+    * Underlines variables/classes whenever possible (depends on the error message)
 
     * Different underline colors for the severity
 
