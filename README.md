@@ -1,7 +1,7 @@
 # PyGuardian-VSC
 Visual Studio Code extension for the PyGuardian-Lite package
 
-This is a custom made static analysis plugin, that runs on my custom made static analysis package.
+This is a custom made static analysis plugin, that runs on a custom made static analysis package.
 
 Features:
 
